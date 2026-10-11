@@ -1,0 +1,6 @@
+{
+  "name": "AstroBase",
+  "description": "Junior Astronaut Mission Trainer: Command a lunar or Martian outpost, balance life support, energy, and radiation with NASA science data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
